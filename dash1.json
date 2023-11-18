@@ -1,9 +1,9 @@
 {
-    "telegram": {
-    "id": "255",
+    "verification": {
+    "id": "2555",
      "tab": "web",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/telegram join.gif",
-    "webUrl": "https://t.me/+yNAl-DjsYEtjMWE1"
+    "imageUrl": "https://pratik97669966.github.io/privacy_policy/verification.gif",
+    "webUrl": "https://forms.gle/zwW2KXNcqvBRBL9n9"
   },
   "call": {
     "id": "2",
@@ -18,6 +18,12 @@
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/New2.gif",
     "isName": true,
     "webUrl": "https://chatopentalk.up.railway.app/"
+  },
+        "telegram": {
+    "id": "255",
+     "tab": "web",
+    "imageUrl": "https://pratik97669966.github.io/privacy_policy/telegram join.gif",
+    "webUrl": "https://t.me/+yNAl-DjsYEtjMWE1"
   },
       "international": {
     "id": "333",
