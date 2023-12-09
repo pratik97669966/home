@@ -12,14 +12,7 @@
     "isName": true,
     "webUrl": "https://chat.opentalk.world/"
   },
- "chat web": {
-    "id": "3",
-    "fragment": "WEB",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/New2.gif",
-    "isName": true,
-    "webUrl": "https://chatopentalk.up.railway.app/"
-  },
-        "telegram": {
+  "telegram": {
     "id": "255",
      "tab": "web",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/telegram join.gif",
