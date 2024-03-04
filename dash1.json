@@ -1,16 +1,16 @@
-{
+{"share app": {
+    "id": "5",
+    "fragment": "WEB",
+     "tab": "share",
+    "imageUrl": "https://pratik97669966.github.io/privacy_policy/share opentalk.gif",
+    "isName": true,
+    "webUrl": "https://chat.opentalk.world/"
+  },
     "verification": {
     "id": "2555",
      "tab": "web",
     "imageUrl": "https://pratik97669966.github.io/home/verify.gif",
     "webUrl": "https://forms.gle/zwW2KXNcqvBRBL9n9"
-  },
-  "call": {
-    "id": "2",
-    "fragment": "GROUP_CALL",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/New1.gif",
-    "isName": true,
-    "webUrl": "https://chat.opentalk.world/"
   },
   "telegram": {
     "id": "255",
@@ -24,13 +24,5 @@
     "imageUrl": "https://i.postimg.cc/vHcrsKS1/mag.png",
     "isName": false,
     "webUrl": "https://pratik97669966.github.io/English_learn/"
-     },
-    "share app": {
-    "id": "5",
-    "fragment": "WEB",
-     "tab": "share",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/share opentalk.gif",
-    "isName": true,
-    "webUrl": "https://chat.opentalk.world/"
-  }
+     }
 }
