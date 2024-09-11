@@ -7,7 +7,7 @@
         "dashBoardUrl":"https://pratik97669966.github.io/home/dash1.json",
         "homeInviteUrl":"https://opentalk-instant-call.onrender.com",
         "privacyPolicyUrl":"https://pratik97669966.github.io/policynew/",
-        "notificationBaseUrl":"https://fcm-notification-zb6s.onrender.com/",
+        "notificationBaseUrl":"fcm-notification-zb6s.onrender.com",
         "roomListBaseUrl":"opentalk-home-room.onrender.com",
         "userBaseUrl":"opentalk-users.onrender.com",
         "isScreenshotEnable":true,
