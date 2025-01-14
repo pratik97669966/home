@@ -12,7 +12,7 @@
         "userBaseUrl":"opentalk-users.onrender.com",
         "isScreenshotEnable":true,
         "roomSocketBaseUrl":"https://opentalk-room-users.onrender.com",
-        "reportUrl":"https://script.google.com/macros/s/AKfycbwq7AWM4HJBmN3JCUebEB7j15c_xMo7m-EidR5Px_h5wdH7liuDXnQ3kJ5ZQEQg0U1ylw/exec",
+        "reportUrl":"https://script.google.com/macros/s/AKfycbwCSTFFsKkWTTzDPjolIWM2r7qkEWUwjkjexMF3SKM1LSItcjsxGgPKdOf7kr8WzodN/exec",
         "utcDate":"https://script.google.com/macros/s/AKfycbxxpU0gsN_BFaQiOi_v6ZsHgrfsYEdtq-9JnME_Kz96uv8H3pXUEHGtFoy8TAiRSvx0/exec",
         "roomImageUploadBaseUrl":"https://script.google.com/macros/s/AKfycbwZv089rRW_h4LmO_if55ZCY4lZvHwjNhPE4Y5rZPbptIjbL_Y6RhHv69bJfss-iPGpwA/exec",
         "chatImageUploadUrl":"https://script.google.com/macros/s/AKfycbxbTMeIPXxaqRIfv5t6eBfxQEJDuTWwfPT7aZlXUVd7b88AXeT9gJFmWOdA0aALhy4j/exec",
