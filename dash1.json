@@ -1,29 +1,28 @@
 {
-    "verification": {
+  "verification": {
     "id": "2555",
-     "tab": "web",
+    "tab": "web",
     "imageUrl": "https://pratik97669966.github.io/home/verify.gif",
     "webUrl": "https://forms.gle/zwW2KXNcqvBRBL9n9"
   },
   "telegram": {
     "id": "255",
-     "tab": "web",
+    "tab": "web",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/telegram join.gif",
     "webUrl": "https://t.me/+yNAl-DjsYEtjMWE1"
   },
-      "international": {
+  "international": {
     "id": "333",
-    "fragment": "WEB",
+    "tab": "web",
     "imageUrl": "https://i.postimg.cc/vHcrsKS1/mag.png",
-    "isName": false,
+    "showName": false,
     "webUrl": "https://langeek.co/en/vocab/subcategory/1360/learn/review"
-     },
-    "share app": {
+  },
+  "shareApp": {
     "id": "5",
-    "fragment": "WEB",
-     "tab": "share",
+    "tab": "share",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/share opentalk.gif",
-    "isName": true,
+    "showName": true,
     "webUrl": "https://chat.opentalk.world/"
   }
 }
