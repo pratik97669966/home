@@ -1,7 +1,7 @@
 {
     "grpchat": {
     "id": "1111",
-      "fragment": "WEB",
+      "fragment": "GROUP_CHAT",
         "isName": true,
     "imageUrl": "https://i.postimg.cc/4yWgRBJC/7.png",
     "webUrl": "https://open-talk-group-chat.onrender.com/"
