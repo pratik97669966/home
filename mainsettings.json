@@ -10,7 +10,7 @@
         "notificationBaseUrl":"fcm-notification-pratik.onrender.com",
         "roomListBaseUrl":"opentalk-home-room.onrender.com",
         "userBaseUrl":"opentalk-users.onrender.com",
-        "isScreenshotEnable":true,
+        "isScreenshotEnable":false,
         "roomSocketBaseUrl":"https://opentalk-room-users.onrender.com",
         "reportUrl":"https://script.google.com/macros/s/AKfycbwCSTFFsKkWTTzDPjolIWM2r7qkEWUwjkjexMF3SKM1LSItcjsxGgPKdOf7kr8WzodN/exec",
         "userReportUrl":"https://script.google.com/macros/s/AKfycbzSIl0a-f_-JPb0ClkUJ5xzdxa-ig_9eRG-MX_BeNDC83eO9Kkva979y8Skl6npd7fU/exec",
