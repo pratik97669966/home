@@ -2,7 +2,7 @@
         "audioCallUrl":"https://call-hmz3.onrender.com/",
         "videoCallUrl":"https://pratik97669966.github.io/video-call-web/",
         "groupCallUrl":"https://opentalk-group-call.onrender.com/gp",
-        "groupChatUrl":"https://ot-group-chat.onrender.com?userName=",
+        "groupChatUrl":"https://group-chat-socket-io.vercel.app?userName=",
         "privateChat":"https://pratiktestchat.onrender.com",
         "dashBoardUrl":"https://pratik97669966.github.io/home/dash1.json",
         "homeInviteUrl":"https://opentalk-instant-call.onrender.com",
