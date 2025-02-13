@@ -1,11 +1,4 @@
-{
-    "grpchat": {
-    "id": "1111",
-       "fragment": "WEB",
-        "isName": true,
-    "imageUrl": "https://i.postimg.cc/4yWgRBJC/7.png",
-    "webUrl": "https://ot-group-chat.onrender.com/"
-  },
+
     "verification": {
     "id": "2555",
      "tab": "web",
