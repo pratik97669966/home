@@ -8,7 +8,7 @@
         "homeInviteUrl":"https://opentalk-instant-call.onrender.com",
         "privacyPolicyUrl":"https://pratik97669966.github.io/policynew/",
         "notificationBaseUrl":"fcm-notification-pratik.onrender.com",
-        "roomListBaseUrl":"room-server-podcast-auto-delete-js.onrender.com",
+        "roomListBaseUrl":"opentalk-home-room.onrender.com",
         "userBaseUrl":"ot-users-data-view.onrender.com",
         "isScreenshotEnable":true,
         "roomSocketBaseUrl":"https://opentalk-room-users.onrender.com",
