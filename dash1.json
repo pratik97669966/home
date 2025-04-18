@@ -5,13 +5,5 @@
     "imageUrl": "https://i.postimg.cc/vHcrsKS1/mag.png",
     "isName": false,
     "webUrl": "https://langeek.co/en/vocab/subcategory/1360/learn/review"
-     },
-    "share app": {
-    "id": "5",
-    "fragment": "WEB",
-     "tab": "share",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/share opentalk.gif",
-    "isName": true,
-    "webUrl": "https://play.google.com/store/apps/details?id=com.open.talk"
-  }
+     }
 }
