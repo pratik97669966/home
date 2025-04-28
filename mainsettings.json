@@ -9,7 +9,7 @@
         "privacyPolicyUrl":"https://pratik97669966.github.io/policynew/",
         "notificationBaseUrl":"fcm-notification-pratik.onrender.com",
         "roomListBaseUrl":"home-screen-server.onrender.com",
-        "userBaseUrl":"ot-users-data-view.onrender.com",
+        "userBaseUrl":"https://users-view.onrender.com",
         "isScreenshotEnable":true,
         "roomSocketBaseUrl":"https://opentalk-room-users.onrender.com",
         "reportUrl":"https://script.google.com/macros/s/AKfycbwCSTFFsKkWTTzDPjolIWM2r7qkEWUwjkjexMF3SKM1LSItcjsxGgPKdOf7kr8WzodN/exec",
