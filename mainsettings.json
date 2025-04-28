@@ -12,7 +12,6 @@
         "userBaseUrl":"users-view.onrender.com",
         "isScreenshotEnable":true,
         "roomSocketBaseUrl":"https://room-user-visible.onrender.com",
-        "reportUrl":"https://script.google.com/macros/s/AKfycbwCSTFFsKkWTTzDPjolIWM2r7qkEWUwjkjexMF3SKM1LSItcjsxGgPKdOf7kr8WzodN/exec",
         "userReportUrl":"https://script.google.com/macros/s/AKfycbzSIl0a-f_-JPb0ClkUJ5xzdxa-ig_9eRG-MX_BeNDC83eO9Kkva979y8Skl6npd7fU/exec",
         "PodcastreportUrl":"https://script.google.com/macros/s/AKfycbzI-Ei3CYrIjyESId_VmiquAY_yT_hBAWrZOys52sSkNuo0Js3ndfdMh_1I33Pi1Reh/exec",
         "utcDate":"https://script.google.com/macros/s/AKfycbxxpU0gsN_BFaQiOi_v6ZsHgrfsYEdtq-9JnME_Kz96uv8H3pXUEHGtFoy8TAiRSvx0/exec",
