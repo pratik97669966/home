@@ -12,7 +12,7 @@
         "userBaseUrl":"users-view.onrender.com",
         "isScreenshotEnable":true,
         "isVerifiedPodcast":false,
-        "isEarlyDisconnectShowAdd":true,
+        "isEarlyDisconnectShowAdd":false,
         "roomSocketBaseUrl":"https://room-user-visible.onrender.com",
         "userReportUrl":"https://script.google.com/macros/s/AKfycbzSIl0a-f_-JPb0ClkUJ5xzdxa-ig_9eRG-MX_BeNDC83eO9Kkva979y8Skl6npd7fU/exec",
         "PodcastreportUrl":"https://script.google.com/macros/s/AKfycbzI-Ei3CYrIjyESId_VmiquAY_yT_hBAWrZOys52sSkNuo0Js3ndfdMh_1I33Pi1Reh/exec",
