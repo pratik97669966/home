@@ -10,7 +10,7 @@
         "notificationBaseUrl":"fcm-notification-pratik.onrender.com",
         "roomListBaseUrl":"home-screen.onrender.com",
         "userBaseUrl":"users-view.onrender.com",
-        "isScreenshotEnable":true,
+        "isScreenshotEnable":false,
         "isVerifiedPodcast":false,
         "isEarlyDisconnectShowAdd":true,
         "roomSocketBaseUrl":"https://room-user-visible.onrender.com",
