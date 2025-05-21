@@ -10,6 +10,7 @@
         "notificationBaseUrl":"fcm-notification-pratik.onrender.com",
         "roomListBaseUrl":"home-screen.onrender.com",
         "userBaseUrl":"users-view.onrender.com",
+        "opentalkMainUrlDatabase":"main-server-dvxt-923wvez3p-pratik97669966s-projects.vercel.app",
         "isScreenshotEnable":true,
         "isVerifiedPodcast":false,
         "isEarlyDisconnectShowAdd":true,
