@@ -15,7 +15,7 @@
   "isScreenshotEnable": true,
   "isChatScreenshotEnable": false,
   "isVerifiedPodcast": false,
-  "isAddBlockerEnable": true,
+  "isAddBlockerEnable": false,
   "versionCode": 24,
   "adminId": "OPEN_TALK_ADMIN",
   "ashishId": "ATHARV_DIVIJ",
