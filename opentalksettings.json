@@ -10,7 +10,7 @@
   "notificationBaseUrl": "fcm-opentalk.vercel.app",
   "roomListBaseUrl": "home-screen.onrender.com",
   "userBaseUrl": "users-view.onrender.com",
-  "opentalkMainUrlDatabase": "main-server-dvxt-git-opentalk-pratik97669966s-projects.vercel.app",
+  "opentalkMainUrlDatabase": "otserver4.vercel.app",
   "urlList": [
     "otserver1.vercel.app",
     "otserver2.vercel.app",
