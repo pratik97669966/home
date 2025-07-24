@@ -7,12 +7,14 @@
   "dashBoardUrl": "https://pratik97669966.github.io/home/dash1.json",
   "homeInviteUrl": "https://invite-call-open-talk.onrender.com",
   "privacyPolicyUrl": "https://pratik97669966.github.io/policynew/",
-  "notificationBaseUrl": "http://fcm-opentalk.vercel.app",
-  "roomListBaseUrl": "http://home-screen.onrender.com",
-  "userBaseUrl": "http://users-view.onrender.com",
-  "opentalkMainUrlDatabase": "http://main-server-dvxt-git-opentalk-pratik97669966s-projects.vercel.app",
+  "notificationBaseUrl": "https://fcm-ot-0.user-server321.workers.dev",
+  "roomListBaseUrl": "https://home-screen-0.audioserver0.workers.dev",
+  "userBaseUrl": "https://users-view-0.room-server321.workers.dev",
+  "opentalkMainUrlDatabase": "https://main-server-a.officialopentalk.workers.dev",
   "urlList": [
-    "https://green-mud-a6e7.officialopentalk.workers.dev/"
+    "https://server-ot-1.officialopentalk.workers.dev/",
+    "https://server-ot-2.officialopentalk.workers.dev/",
+    "https://server-ot-3.instantcallserver.workers.dev/"
   ],
   "gameUrl": "https://5046.play.gamezop.com",
   "isScreenshotEnable": true,
