@@ -24,6 +24,18 @@
   "isVerifiedPodcast": false,
   "isAddBlockerEnable": false,
   "versionCode": 27,
+  "appUpdateInfo": [
+    {
+      "appName": "Open Talk",
+      "appId": "com.open.talk",
+      "versionCode": 27
+    },
+    {
+      "appName": "Speaklar",
+      "appId": "com.talk.speaklar",
+      "versionCode": 27
+    }
+  ],
   "adminId": "OPEN_TALK_ADMIN",
   "ashishId": "ATHARV_DIVIJ",
   "pratikId": "Pratik_Pansare",
