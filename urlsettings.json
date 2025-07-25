@@ -28,12 +28,12 @@
     {
       "appName": "Open Talk",
       "appId": "com.open.talk",
-      "versionCode": 27
+      "versionCode": 34
     },
     {
       "appName": "Speaklar",
       "appId": "com.talk.speaklar",
-      "versionCode": 27
+      "versionCode": 1
     }
   ],
   "adminId": "OPEN_TALK_ADMIN",
