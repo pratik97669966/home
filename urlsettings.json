@@ -20,7 +20,7 @@
   ],
   "gameUrl": "https://5046.play.gamezop.com",
   "isScreenshotEnable": true,
-  "isChatScreenshotEnable": true,
+  "isChatScreenshotEnable": false,
   "isVerifiedPodcast": false,
   "isAddBlockerEnable": false,
   "versionCode": 34,
