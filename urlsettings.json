@@ -35,7 +35,7 @@
     }
   ],
   "adminId": "OPEN_TALK_ADMIN",
-  "ashishId": "ATHARV_DIVIJ",
+  "ashishId": "",
   "pratikId": "Pratik_Pansare",
   "isEarlyDisconnectShowAdd": true,
   "socketUrl": "https://socket-open-talk.onrender.com",
