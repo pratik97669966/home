@@ -11,10 +11,9 @@
   "roomListBaseUrl": "https://home-screen-0.audioserver0.workers.dev",
    "opentuneUrl": "https://open-tune-0.pratikpansare001.workers.dev/",
   "opentunePlayUrl": "https://codezillaaaa.github.io/Ringtones/",
-    "opentalkMainUrlDatabase": "https://main-server-a.officialopentalk.workers.dev",
+    "opentalkMainUrlDatabase": "main-server-a.officialopentalk.workers.dev",
   "urlList": [
-    "https://main-server-a.officialopentalk.workers.dev",
-    "https://server-ot-3.instantcallserver.workers.dev/"
+    "main-server-a.officialopentalk.workers.dev"
   ],
   "gameUrl": "https://5046.play.gamezop.com",
   "isScreenshotEnable": true,
