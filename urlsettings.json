@@ -23,17 +23,19 @@
   "isChatScreenshotEnable": false,
   "isVerifiedPodcast": false,
   "isAddBlockerEnable": true,
-  "versionCode": 34,
+  "versionCode": 10000,
   "appUpdateInfo": [
     {
       "appName": "Open Talk",
       "appId": "com.open.talk",
-      "versionCode": 34
+      "gifUrl": "https://raw.githubusercontent.com/pratik97669966/home/main/opentalk.gif",
+      "versionCode": 10000
     },
     {
       "appName": "Speaklar",
       "appId": "com.talk.speaklar",
-      "versionCode": 1
+      "gifUrl": "https://i.pinimg.com/originals/a4/48/f0/a448f012ac2681e47ebdd86aaf8a274a.gif",
+      "versionCode": 10000
     }
   ],
   "adminId": "OPEN_TALK_ADMIN",
